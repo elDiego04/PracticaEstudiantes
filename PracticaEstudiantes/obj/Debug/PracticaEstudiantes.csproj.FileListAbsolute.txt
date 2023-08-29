@@ -1,0 +1,7 @@
+C:\Users\57305\source\repos\PracticaEstudiantes\PracticaEstudiantes\bin\Debug\PracticaEstudiantes.exe.config
+C:\Users\57305\source\repos\PracticaEstudiantes\PracticaEstudiantes\bin\Debug\PracticaEstudiantes.exe
+C:\Users\57305\source\repos\PracticaEstudiantes\PracticaEstudiantes\bin\Debug\PracticaEstudiantes.pdb
+C:\Users\57305\source\repos\PracticaEstudiantes\PracticaEstudiantes\obj\Debug\PracticaEstudiantes.csproj.AssemblyReference.cache
+C:\Users\57305\source\repos\PracticaEstudiantes\PracticaEstudiantes\obj\Debug\PracticaEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\57305\source\repos\PracticaEstudiantes\PracticaEstudiantes\obj\Debug\PracticaEstudiantes.exe
+C:\Users\57305\source\repos\PracticaEstudiantes\PracticaEstudiantes\obj\Debug\PracticaEstudiantes.pdb

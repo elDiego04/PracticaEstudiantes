@@ -13,7 +13,6 @@ class Program
 
         Estudiantes estudiante2 = new Estudiantes("Diego", "Salazar", 4.5, 3.0, 5.0, "Sistemas", 19);
 
-
         Estudiantes estudiante3 = new Estudiantes("Gladys", "Castrillon", 1.0, 2.0, 3.0);
     }
 }
