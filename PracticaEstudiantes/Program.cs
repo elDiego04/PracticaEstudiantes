@@ -7,7 +7,7 @@ using static System.Console;
 
 class Program
 {
-    static void Main(String[] args)
+    static void Main(string[] args)
     {
         Estudiantes estudiante1 = new Estudiantes();
 
